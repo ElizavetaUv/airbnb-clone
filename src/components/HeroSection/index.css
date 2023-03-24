@@ -1,0 +1,16 @@
+.photo-grid {
+  display: block;
+  width: 50%;
+  margin: 25px auto;
+}
+
+.heroSection-title {
+  font-size: 36px;
+  line-height: 110%;
+  margin-bottom: 16px;
+}
+
+.heroSection-description {
+  margin-top: 0px;
+  font-weight: 400;
+}

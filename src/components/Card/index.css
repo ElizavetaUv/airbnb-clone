@@ -1,0 +1,46 @@
+.cards-list {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  overflow-x: auto;
+}
+
+.card {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.card--photo {
+  width: 250px;
+}
+
+.card--starIcon {
+  width: 14px;
+  padding-right: 2px;
+}
+
+p {
+  margin: 0px;
+  font-size: 14px;
+  max-width: 250px;
+}
+
+.card--price {
+  font-weight: 600;
+}
+
+.card--additionalInfo {
+  color: #918e9b;
+}
+
+.card--status {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  background-color: #fff;
+  border-radius: 10%;
+  font-size: 12px;
+  padding: 6px;
+}
