@@ -5,7 +5,7 @@ export default [
     description:
       'I will share with you what I call "Positively Impactful Moments of Disappointment." Throughout my career, many of my highest moments only came after setbacks and losses. But learning from those difficult moments is what gave me the ability to rise above them and reach my goals.',
     price: 136,
-    coverImg: "katie-zaferes.svg",
+    coverImg: "katie-zaferes.png",
     stats: {
       rating: 5.0,
       reviewCount: 6,
@@ -19,7 +19,7 @@ export default [
     description:
       "Interested in becoming a wedding photographer? For beginner and experienced photographers alike, join us in learning techniques required to leave the happy couple with memories that'll last a lifetime.",
     price: 125,
-    coverImg: "wedding-photography.svg",
+    coverImg: "wedding-photography.png",
     stats: {
       rating: 5.0,
       reviewCount: 30,
@@ -33,7 +33,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "mountain-bike.svg",
+    coverImg: "mountain-bike.png",
     stats: {
       rating: 4.8,
       reviewCount: 2,
@@ -46,7 +46,7 @@ export default [
     title: "Explore Card Magic",
     description: " You're going to experience real magic right from your home.",
     price: 82,
-    coverImg: "card-magic.svg",
+    coverImg: "card-magic.png",
     stats: {
       rating: 4.9,
       reviewCount: 12,
@@ -60,7 +60,7 @@ export default [
     description:
       "I will teach you how to give your dog a therapeutic massage. We will use different contemporary techniques so you can bond more deeply with him and help him physically and mentally while he relaxes.",
     price: 79,
-    coverImg: "massage-for-dogs.svg",
+    coverImg: "massage-for-dogs.png",
     stats: {
       rating: 5.0,
       reviewCount: 34,
@@ -74,7 +74,7 @@ export default [
     description:
       "This powerful Healing Energy Meditation meditation will help you release emotions and negative energy stuck in the body so you can feel calm, grounded and present.",
     price: 140,
-    coverImg: "meditation.svg",
+    coverImg: "meditation.png",
     stats: {
       rating: 4.7,
       reviewCount: 68,
@@ -88,7 +88,7 @@ export default [
     description:
       "Join my AirBnB Experience and I'll show you how to make the most amazing and authentic hummus. I’ll share some awesome tricks and family secrets to help perfect your hummus.",
     price: 85,
-    coverImg: "hummus.svg",
+    coverImg: "hummus.png",
     stats: {
       rating: 4.8,
       reviewCount: 17,
